@@ -15,7 +15,7 @@ Whether you're a designer, developer, student, or AI enthusiast, PromptsRadar pr
 - **Prompt Submission**: Share your own powerful AI prompts with the community.
 - **Newsletter Subscription**: Receive 10 trending prompts every Friday directly in your inbox (no spam, easy unsubscribe).
 - **Battle Prompts**: Explore competitive or comparative prompt battles in a dedicated section.
-- **User Authentication**: Secure login and session management powered by Next-Auth.
+- **User Authentication**: Secure login and session management.
 
 ## Categories
 
