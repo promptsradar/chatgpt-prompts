@@ -10,7 +10,7 @@ Whether you're a designer, developer, student, or AI enthusiast, PromptsRadar pr
 
 ## Features
 
-- **Search Functionality**: Easily search for prompts using keywords (e.g., via `/prompts?search=` endpoint).
+- **Search Functionality**: Easily search for prompts using keywords.
 - **Daily Curated Updates**: Fresh, trending prompts added every day.
 - **Prompt Submission**: Share your own powerful AI prompts with the community.
 - **Newsletter Subscription**: Receive 10 trending prompts every Friday directly in your inbox (no spam, easy unsubscribe).
