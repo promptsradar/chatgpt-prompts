@@ -1,4 +1,3 @@
-# chatgpt-prompts
 # PromptsRadar - Your Radar for Trending AI Prompts
 
 ![PromptsRadar Logo](https://promptsradar.com/_next/image?url=%2Fassets%2Fimages%2Flogo-title.png&w=256&q=75) 
